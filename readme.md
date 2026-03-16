@@ -23,10 +23,10 @@
 ```text
 /snake-rl-project
 │
-├── /agents
-│   ├── q_learning.ipynb
-│   ├── ppo.ipynb
-│   └── policy_gradient.ipynb
+|
+├── q_learning.ipynb
+|── ppo.ipynb
+|── policy_gradient.ipynb   
 │
 ├── /final_results
 │   ├── /models
@@ -36,7 +36,7 @@
 ├── main_comparison.ipynb
 ├── rewards.py
 ├── README.md
-└── requirements.txt
+
 ```
 
 ## 3. Standardized Reward Systems
@@ -63,7 +63,6 @@ Designed for **faster convergence** through constant feedback.
 |------|------|
 | Food Consumption | +10.0 |
 | Collision (Death) | -10.0 |
-| Proximity Reward | +-0.1 (based on distance to food using Euclidean distance) |
 | Step Penalty | -0.01 (discourages looping / idling) |
 
 ---
@@ -94,8 +93,4 @@ The **best trained version** of each agent will be evaluated across **100 test e
 
 ---
 
-- **Hyperparameter Logging:**  
-Each notebook must explicitly list:
-- Learning Rate 
-- Discount Factor 
-- Batch Size
+

@@ -1,0 +1,13 @@
+Agent,Grid,Average Return,Average Steps
+Allocentric_Dense_Standard,10x10,9.7,103.61
+Allocentric_Dense_Standard,20x20,14.371794871794872,278.96153846153845
+Allocentric_Sparse_Experimental,10x10,13.090909090909092,139.25
+Allocentric_Sparse_Experimental,20x20,15.326530612244898,289.0612244897959
+Allocentric_Survivalist_Safe,10x10,12.06,152.63
+Allocentric_Survivalist_Safe,20x20,16.244897959183675,345.38775510204084
+Egocentric_Dense_Standard,10x10,8.438775510204081,85.8061224489796
+Egocentric_Dense_Standard,20x20,12.24731182795699,206.67741935483872
+Egocentric_Sparse_Experimental,10x10,6.83,70.9
+Egocentric_Sparse_Experimental,20x20,11.676767676767676,199.02020202020202
+Egocentric_Survivalist_Safe,10x10,8.29,104.2
+Egocentric_Survivalist_Safe,20x20,11.555555555555555,256.375

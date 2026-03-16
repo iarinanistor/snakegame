@@ -1,0 +1,13 @@
+Agent,System,State,Grid,Avg Return,Peak Length,Steps/Food,Success (%)
+Allocentric_Dense_Standard,Dense,Allocentric,10x10,73.83979999999998,23,17.189125295508273,51.0
+Allocentric_Dense_Standard,Dense,Allocentric,20x20,90.12769999999988,37,20.451422963689893,61.0
+Allocentric_Sparse_Experimental,Sparse,Allocentric,10x10,149.1,32,10.676932746700189,94.0
+Allocentric_Sparse_Experimental,Sparse,Allocentric,20x20,254.7,49,20.791146424517592,98.0
+Allocentric_Survivalist_Safe,Survivalist,Allocentric,10x10,85.04599999999941,34,26.50991325898389,88.0
+Allocentric_Survivalist_Safe,Survivalist,Allocentric,20x20,146.6570000000012,42,34.97587246876346,91.0
+Egocentric_Dense_Standard,Dense,Egocentric,10x10,57.150999999999975,24,13.683899556868537,39.0
+Egocentric_Dense_Standard,Dense,Egocentric,20x20,112.52750000000009,40,17.738745980707396,72.0
+Egocentric_Sparse_Experimental,Sparse,Egocentric,10x10,62.8,23,9.104395604395604,42.0
+Egocentric_Sparse_Experimental,Sparse,Egocentric,20x20,106.2,30,16.120481927710845,75.0
+Egocentric_Survivalist_Safe,Survivalist,Egocentric,10x10,35.70849999999988,28,10.223310479921645,62.0
+Egocentric_Survivalist_Safe,Survivalist,Egocentric,20x20,103.81000000000031,50,20.096153846153847,90.0
